@@ -9326,8 +9326,9 @@ File: qcom/qdu100/xbl_config.elf
 File: qcom/qdu100/xbl_ramdump.elf
 File: qcom/qdu100/zeros_1sector.bin
 File: qcom/qdu100/qdsp6sw.mbn.xz
+File: qcom/qdu100/kernel_boot.elf
 
-License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
+License: Redistributable. See LICENSE.qcom_qdu100 and qcom/qdu100/NOTICE.txt for details
 
 --------------------------------------------------------------------------
 
